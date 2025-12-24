@@ -2,10 +2,6 @@
 
 **Your Ultimate Movie Discovery Platform**
 
-[![React](https://img.shields.io/badge/React-19.2.0-61DAFB?logo=react)](https://react.dev/)
-[![Vite](https://img.shields.io/badge/Vite-7.2.4-646CFF?logo=vite)](https://vite.dev/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-
 ---
 
 ## 📋 Overview
@@ -23,11 +19,9 @@ MovieManiac is a modern, responsive web application that helps movie enthusiasts
 - ⚡ **Fast Performance**: Built with Vite for lightning-fast development and builds
 - 🎭 **Rich Movie Details**: View movie posters, ratings, release dates, and descriptions
 
-> **Note**: A live preview link will be available once the project is deployed. Check back soon!
 
-<!-- If you have a live demo, replace the above with:
-**Live Demo**: [https://your-demo-url.com](https://your-demo-url.com)
--->
+**Live Demo**: [https://movie-maniac-app.vercel.app/](https://movie-maniac-app.vercel.app/)
+
 
 ## 🚀 Getting Started
 
@@ -43,7 +37,7 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/Movie-Maniac.git
+   git clone https://github.com/JoeAlNaggar/Movie-Maniac
    cd Movie-Maniac
    ```
 
